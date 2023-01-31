@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Quique Serrano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true" />
+<img align="left" alt="Quique Serrano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true" /> &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qode66)](https://github.com/qode66/github-readme-stats) 
