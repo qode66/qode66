@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my Github page! I am Quique and I am Technician in Electrical Installations and PLC Programmer. DIY passionate. Teacher for training for employment and youth animator.
+
 <!--
 **qode66/qode66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
