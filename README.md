@@ -9,7 +9,7 @@ Welcome to my Github page! I am Quique and I am Technician in Electrical Install
 
 ### Languages
 
-<img src="/icons/html-5.png" width="40" ><img src="/icons/css.png" width="40" ><img src="/icons/java-script.png" width="40">
+<img src="/icons/html.png" width="40" ><img src="/icons/css-3.png" width="40" ><img src="/icons/java-script.png" width="40">
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
