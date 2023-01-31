@@ -9,25 +9,12 @@ Welcome to my Github page! I am Quique and I am Technician in Electrical Install
 
 ### Languages
 
-<img src="/icons/html.png" width="40" ><img src="/icons/css-3.png" width="40" ><img src="/icons/java-script.png" width="40">
+<img src="/icons/html.png" width="40" alt="HTML5"><img src="/icons/css-3.png" width="40" alt="CSS"><img src="/icons/java-script.png" width="40" alt="JAVASCRIPT"><img src="/icons/python.png" width="40" alt="PYTHON">
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ### Tools
 
-<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" />
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+<img src="/icons/git.png" width="40" alt="GIT"><img src="/icons/github.png" width="40" alt="GITHUB"><img src="/icons/arduino.svg" width="40" alt="ARDUINO">
 
 
 
