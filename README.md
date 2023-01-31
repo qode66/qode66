@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Quique Serrano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true" /> 
+<img align="left" alt="Quique Serrano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> 
+<br>
+
+<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" />
