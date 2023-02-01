@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="/media/skyline-qode66-2022.png" align="left" width="500" alt="Skyline" >   
+<img src="/media/skyline-qode66-2022.png" align="left" alt="Skyline" >   
  
 <img src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right" alt="Quique Serrano's Github Stats" > 
