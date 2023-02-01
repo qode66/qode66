@@ -39,6 +39,6 @@ A somewhat eclectic mix, even more so if we add that I like nature and practicin
 
 <h3 align="center">QODE66 Github contributions</h3>
 
-<img src="/media/skyline-qode66-2022.png" align="left" alt="Skyline" >   
+<img src="/media/skyline-qode66-2022-min.gif" align="left" alt="Skyline" >   
  
  
