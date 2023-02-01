@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<img align='right' src='/icons/Type.gif' width='100"'>
+<img align='right' src='/icons/qode66-banner.png' width='600"'>
 
 Welcome to my Github page! 
 
 I am Quique and I am Technician in Electrical Installations and PLC Programmer. DIY passionate. Teacher for training for employment and youth animator.
+
+A somewhat eclectic mix, even more so if we add that I like nature and practicing speleology. However, such a variety of hobbies allows me a much broader view and a more open mind to the problems I face.
 
 ### Contact
 
