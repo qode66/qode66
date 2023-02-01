@@ -13,7 +13,7 @@ A somewhat eclectic mix, even more so if we add that I like nature and practicin
 <a href="https://www.linkedin.com/in/qserrano" target="_blank">
   <img src="/icons/linkedin.png" width="40" alt="Linkedin">
 </a>
-<a href="https://t.me/quiquesb" target="_blank">
+<a href="https://t.me/qserrano" target="_blank">
   <img src="/icons/telegram.png" width="40" alt="Telegram">
 </a>
 </a>
