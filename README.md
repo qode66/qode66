@@ -4,8 +4,20 @@ Welcome to my Github page! I am Quique and I am Technician in Electrical Install
 
 ### Contact
 
-[![Linkedin](https://img.shields.io/badge/-QuiqueSerrano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qserrano)
-[![Telegram](https://img.shields.io/badge/-Quique_Serrano-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/quiquesb)
+<a href="https://www.linkedin.com/in/qserrano" target="_blank">
+  <img src="/icons/linkedin.png" width="40" alt="Linkedin">
+</a>
+<a href="https://t.me/quiquesb" target="_blank">
+  <img src="/icons/telegram.png" width="40" alt="Telegram">
+</a>
+</a>
+<a href="https://twitter.com/qode66" target="_blank">
+  <img src="/icons/twitter.png" width="40" alt="Twitter">
+</a>
+</a>
+<a href="mailto:quique.srrn@gmail.com" target="_blank">
+  <img src="/icons/gmail.png" width="40" alt="Gmail">
+</a>
 
 ### Languages
 
