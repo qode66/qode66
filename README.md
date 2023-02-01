@@ -15,8 +15,8 @@ Welcome to my Github page! I am Quique and I am Technician in Electrical Install
   <img src="/icons/twitter.png" width="40" alt="Twitter">
 </a>
 </a>
-<a href="mailto:quique.srrn@gmail.com" target="_blank">
-  <img src="/icons/gmail.png" width="40" alt="Gmail">
+<a href="mailto:qserrano@protonmail.com" target="_blank">
+  <img src="/icons/protonmail.png" width="40" alt="Protonmail">
 </a>
 
 ### Languages
@@ -26,7 +26,7 @@ Welcome to my Github page! I am Quique and I am Technician in Electrical Install
 
 ### Tools
 
-<img src="/icons/git.png" width="40" alt="GIT"><img src="/icons/github.png" width="40" alt="GITHUB"><img src="/icons/arduino.svg" width="40" alt="ARDUINO">
+<img src="/icons/git.png" width="40" alt="GIT"><img src="/icons/github.png" width="40" alt="GITHUB"><img src="/icons/arduino.svg" width="40" alt="ARDUINO"><img src="/icons/visual-studio.svg" width="40" alt="VISUAL STUDIO">
 
 
 
