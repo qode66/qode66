@@ -28,6 +28,7 @@ A somewhat eclectic mix, even more so if we add that I like nature and practicin
 ### Languages
 
 <img src="/icons/html.png" width="40" alt="HTML5"><img src="/icons/css-3.png" width="40" alt="CSS"><img src="/icons/java-script.png" width="40" alt="JAVASCRIPT"><img src="/icons/python.png" width="40" alt="PYTHON">
+<img src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right" alt="Quique Serrano's Github Stats" >
 
 
 ### Tools
@@ -36,22 +37,8 @@ A somewhat eclectic mix, even more so if we add that I like nature and practicin
 
 <br><br><br>
 
-
-<!--
-**qode66/qode66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">QODE66 Github contributions</h3>
 
 <img src="/media/skyline-qode66-2022.png" align="left" alt="Skyline" >   
  
-<img src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right" alt="Quique Serrano's Github Stats" > 
+ 
