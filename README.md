@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Welcome to my Github page! I am Quique and I am Technician in Electrical Installations and PLC Programmer. DIY passionate. Teacher for training for employment and youth animator.
+<img align='right' src='/icons/Type.gif' width='100"'>
+
+Welcome to my Github page! 
+
+I am Quique and I am Technician in Electrical Installations and PLC Programmer. DIY passionate. Teacher for training for employment and youth animator.
 
 ### Contact
 
@@ -28,7 +32,7 @@ Welcome to my Github page! I am Quique and I am Technician in Electrical Install
 
 <img src="/icons/git.png" width="40" alt="GIT"><img src="/icons/github.png" width="40" alt="GITHUB"><img src="/icons/arduino.svg" width="40" alt="ARDUINO"><img src="/icons/visual-studio.svg" width="40" alt="VISUAL STUDIO">
 
-
+<br><br><br>
 
 
 <!--
@@ -48,4 +52,4 @@ Here are some ideas to get you started:
 
   
  
-<img align="center" alt="Quique Serrano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" > 
+<img src="https://github-readme-stats.vercel.app/api?username=qode66&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right" alt="Quique Serrano's Github Stats" > 
