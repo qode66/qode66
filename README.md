@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src='qode66-logo.png' width='600"'>
+<img align='right' src='qode66-logo.png' width='400"'>
 
 Welcome to my Github profile!
 
